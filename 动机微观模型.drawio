@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2022-10-16T05:46:42.028Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.42" etag="canZ7RH_fHvnH5DukhZz" version="20.4.1" type="github" pages="2">
-  <diagram id="kPq2ntZRkkWAnAArJFhL" name="第 1 页">
+<mxfile host="app.diagrams.net" modified="2022-10-16T05:50:53.980Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.42" etag="ZxQlmLoHw_JoXC1DNZ1G" version="20.4.1" type="github" pages="2">
+  <diagram id="kPq2ntZRkkWAnAArJFhL" name="预期-行动-反馈模型">
     <mxGraphModel dx="1631" dy="991" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -134,46 +134,59 @@
         <mxCell id="keqpm7v_gJoTvBz5cPvA-7" value="情感" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" parent="keqpm7v_gJoTvBz5cPvA-9" vertex="1">
           <mxGeometry x="51" y="38" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bU09pMdGOBnbswOLhoOm-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lbbJXawMjLOiKPOYFRqx-16" target="bU09pMdGOBnbswOLhoOm-1" edge="1">
+        <mxCell id="lbbJXawMjLOiKPOYFRqx-36" value="&lt;h1&gt;层次性&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;text-align: center;&quot;&gt;需求本质上是稳定的核心观念与变动的外围观念所组成的层次互动体系。外围观念可以直接形成动机，但是这仍然是根植于其所链接的核心观念的。每个观念都有系数，决定了其所能引发的预期的强度。即使生存是最原始的核心观念，但是其系数也有可能被其他核心观念所超越。同理，外围观念也有可能会强于核心观念。&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=16;opacity=0;" parent="1" vertex="1">
+          <mxGeometry x="92" y="144" width="260.5" height="281" as="geometry" />
+        </mxCell>
+        <mxCell id="lbbJXawMjLOiKPOYFRqx-37" value="&lt;h1&gt;矛盾性与运动性&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;text-align: center;&quot;&gt;这个体系是随着环境与核心观念的互动而变化的，观念本身会发生变化，观念的系数也会发生变化。外围观念的变化更多与核心观念有关，核心观念的变化尚且未知。&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=16;opacity=0;" parent="1" vertex="1">
+          <mxGeometry x="92" y="464" width="250.5" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="bZnWhGwlDkqfE6Z6Ka0u" name="需求-预期模型">
+    <mxGraphModel dx="1223" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CN2NexuVnx9_SkuIJJvM-2" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.625;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CN2NexuVnx9_SkuIJJvM-4" target="CN2NexuVnx9_SkuIJJvM-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bU09pMdGOBnbswOLhoOm-3" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lbbJXawMjLOiKPOYFRqx-16" target="bU09pMdGOBnbswOLhoOm-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="CN2NexuVnx9_SkuIJJvM-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="CN2NexuVnx9_SkuIJJvM-4" target="f7RIj0uco2Hz7s-HtjSD-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1091.52" y="885.4799999999998" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="bU09pMdGOBnbswOLhoOm-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.321;entryY=0.031;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="lbbJXawMjLOiKPOYFRqx-16" target="bU09pMdGOBnbswOLhoOm-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="CN2NexuVnx9_SkuIJJvM-4" value="&lt;font style=&quot;font-size: 22px&quot;&gt;预期&lt;/font&gt;" style="whiteSpace=wrap;html=1;snapToPoint=0;fixDash=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="939" y="785" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lbbJXawMjLOiKPOYFRqx-16" value="&lt;font style=&quot;font-size: 22px&quot;&gt;预期&lt;/font&gt;" style="whiteSpace=wrap;html=1;snapToPoint=0;fixDash=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="921" y="618" width="120" height="60" as="geometry" />
+        <mxCell id="CN2NexuVnx9_SkuIJJvM-5" value="" style="group;opacity=0;fillColor=none;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="414" y="710" width="346" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="lbbJXawMjLOiKPOYFRqx-26" value="" style="group;opacity=0;fillColor=none;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="396" y="543" width="346" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="lbbJXawMjLOiKPOYFRqx-25" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="lbbJXawMjLOiKPOYFRqx-26" vertex="1">
+        <mxCell id="CN2NexuVnx9_SkuIJJvM-6" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="CN2NexuVnx9_SkuIJJvM-5">
           <mxGeometry width="346" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="ibxlL6P6bhPAEz_x_jn9-38" value="&lt;font style=&quot;font-size: 22px&quot;&gt;需求&lt;/font&gt;" style="whiteSpace=wrap;html=1;snapToPoint=0;fixDash=0;shadow=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="lbbJXawMjLOiKPOYFRqx-26" vertex="1">
+        <mxCell id="CN2NexuVnx9_SkuIJJvM-7" value="&lt;font style=&quot;font-size: 22px&quot;&gt;需求&lt;/font&gt;" style="whiteSpace=wrap;html=1;snapToPoint=0;fixDash=0;shadow=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="CN2NexuVnx9_SkuIJJvM-5">
           <mxGeometry x="26" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dJDtyNAbK6uFxzYJcRhW-5" value="&lt;font style=&quot;font-size: 22px&quot;&gt;事件&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;snapToPoint=0;fixDash=0;shadow=1;" parent="lbbJXawMjLOiKPOYFRqx-26" vertex="1">
+        <mxCell id="CN2NexuVnx9_SkuIJJvM-8" value="&lt;font style=&quot;font-size: 22px&quot;&gt;事件&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;snapToPoint=0;fixDash=0;shadow=1;" vertex="1" parent="CN2NexuVnx9_SkuIJJvM-5">
           <mxGeometry x="113" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="keqpm7v_gJoTvBz5cPvA-18" value="" style="group" parent="lbbJXawMjLOiKPOYFRqx-26" vertex="1" connectable="0">
+        <mxCell id="CN2NexuVnx9_SkuIJJvM-9" value="" style="group" vertex="1" connectable="0" parent="CN2NexuVnx9_SkuIJJvM-5">
           <mxGeometry x="216" y="4.5" width="111" height="111" as="geometry" />
         </mxCell>
-        <mxCell id="keqpm7v_gJoTvBz5cPvA-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=22;" parent="keqpm7v_gJoTvBz5cPvA-18" vertex="1">
+        <mxCell id="CN2NexuVnx9_SkuIJJvM-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=22;" vertex="1" parent="CN2NexuVnx9_SkuIJJvM-9">
           <mxGeometry width="111" height="111" as="geometry" />
         </mxCell>
-        <mxCell id="lbbJXawMjLOiKPOYFRqx-20" value="" style="group" parent="keqpm7v_gJoTvBz5cPvA-18" vertex="1" connectable="0">
+        <mxCell id="CN2NexuVnx9_SkuIJJvM-11" value="" style="group" vertex="1" connectable="0" parent="CN2NexuVnx9_SkuIJJvM-9">
           <mxGeometry y="31" width="111" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="keqpm7v_gJoTvBz5cPvA-16" value="认知" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" parent="lbbJXawMjLOiKPOYFRqx-20" vertex="1">
+        <mxCell id="CN2NexuVnx9_SkuIJJvM-12" value="认知" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="CN2NexuVnx9_SkuIJJvM-11">
           <mxGeometry y="20" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="keqpm7v_gJoTvBz5cPvA-17" value="情绪" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" parent="lbbJXawMjLOiKPOYFRqx-20" vertex="1">
+        <mxCell id="CN2NexuVnx9_SkuIJJvM-13" value="情绪" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="CN2NexuVnx9_SkuIJJvM-11">
           <mxGeometry x="51" y="7" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="keqpm7v_gJoTvBz5cPvA-15" value="" style="curved=1;endArrow=none;html=1;rounded=0;fontSize=22;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endFill=0;" parent="keqpm7v_gJoTvBz5cPvA-18" source="keqpm7v_gJoTvBz5cPvA-14" target="keqpm7v_gJoTvBz5cPvA-14" edge="1">
+        <mxCell id="CN2NexuVnx9_SkuIJJvM-14" value="" style="curved=1;endArrow=none;html=1;rounded=0;fontSize=22;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endFill=0;" edge="1" parent="CN2NexuVnx9_SkuIJJvM-9" source="CN2NexuVnx9_SkuIJJvM-10" target="CN2NexuVnx9_SkuIJJvM-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-588" y="-379.5" as="sourcePoint" />
             <mxPoint x="-538" y="-429.5" as="targetPoint" />
@@ -183,32 +196,29 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lbbJXawMjLOiKPOYFRqx-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="lbbJXawMjLOiKPOYFRqx-25" target="lbbJXawMjLOiKPOYFRqx-16" edge="1">
+        <mxCell id="CN2NexuVnx9_SkuIJJvM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CN2NexuVnx9_SkuIJJvM-6" target="CN2NexuVnx9_SkuIJJvM-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lbbJXawMjLOiKPOYFRqx-36" value="&lt;h1&gt;层次性&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;text-align: center;&quot;&gt;需求本质上是稳定的核心观念与变动的外围观念所组成的层次互动体系。外围观念可以直接形成动机，但是这仍然是根植于其所链接的核心观念的。每个观念都有系数，决定了其所能引发的预期的强度。即使生存是最原始的核心观念，但是其系数也有可能被其他核心观念所超越。同理，外围观念也有可能会强于核心观念。&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=16;opacity=0;" parent="1" vertex="1">
-          <mxGeometry x="92" y="144" width="260.5" height="281" as="geometry" />
+        <mxCell id="CN2NexuVnx9_SkuIJJvM-16" value="增幅或者削弱" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CN2NexuVnx9_SkuIJJvM-17" target="f7RIj0uco2Hz7s-HtjSD-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1061.4" y="914.9999999999998" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="lbbJXawMjLOiKPOYFRqx-37" value="&lt;h1&gt;矛盾性与运动性&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;text-align: center;&quot;&gt;这个体系是随着环境与核心观念的互动而变化的，观念本身会发生变化，观念的系数也会发生变化。外围观念的变化更多与核心观念有关，核心观念的变化尚且未知。&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=16;opacity=0;" parent="1" vertex="1">
-          <mxGeometry x="92" y="464" width="250.5" height="180" as="geometry" />
+        <mxCell id="CN2NexuVnx9_SkuIJJvM-17" value="成本与收益" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="883" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bU09pMdGOBnbswOLhoOm-6" value="增幅或者削弱" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.07;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="bU09pMdGOBnbswOLhoOm-1" target="bU09pMdGOBnbswOLhoOm-4" edge="1">
+        <mxCell id="f7RIj0uco2Hz7s-HtjSD-1" value="难度（自我效能感）" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1054" y="873" width="165" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="f7RIj0uco2Hz7s-HtjSD-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="f7RIj0uco2Hz7s-HtjSD-2" target="f7RIj0uco2Hz7s-HtjSD-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bU09pMdGOBnbswOLhoOm-1" value="成本与收益" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="812" y="716" width="120" height="80" as="geometry" />
+        <mxCell id="f7RIj0uco2Hz7s-HtjSD-2" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;需求&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="410" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bU09pMdGOBnbswOLhoOm-4" value="难度（自我效能感）" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="1035" y="716" width="120" height="80" as="geometry" />
+        <mxCell id="f7RIj0uco2Hz7s-HtjSD-3" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;社会比较&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="340" width="170" height="120" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="bZnWhGwlDkqfE6Z6Ka0u" name="第 2 页">
-    <mxGraphModel dx="734" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
