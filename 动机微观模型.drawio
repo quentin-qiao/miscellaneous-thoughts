@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-16T05:52:18.905Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.42" etag="jtQP8GgBzrhTWEdRuKfS" version="20.4.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-16T05:54:08.361Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.42" etag="3X0ywatcNeEE8xI7aBxZ" version="20.4.1" type="github" pages="2">
   <diagram id="kPq2ntZRkkWAnAArJFhL" name="预期-行动-反馈模型">
     <mxGraphModel dx="1631" dy="991" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -144,7 +144,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bZnWhGwlDkqfE6Z6Ka0u" name="需求-预期模型">
-    <mxGraphModel dx="1223" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1335" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -199,16 +199,16 @@
         <mxCell id="CN2NexuVnx9_SkuIJJvM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CN2NexuVnx9_SkuIJJvM-6" target="CN2NexuVnx9_SkuIJJvM-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CN2NexuVnx9_SkuIJJvM-16" value="增幅或者削弱" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CN2NexuVnx9_SkuIJJvM-17" target="f7RIj0uco2Hz7s-HtjSD-1">
+        <mxCell id="CN2NexuVnx9_SkuIJJvM-16" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;增幅或者削弱&lt;/font&gt;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CN2NexuVnx9_SkuIJJvM-17" target="f7RIj0uco2Hz7s-HtjSD-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1061.4" y="914.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CN2NexuVnx9_SkuIJJvM-17" value="成本与收益" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="883" width="120" height="80" as="geometry" />
+        <mxCell id="CN2NexuVnx9_SkuIJJvM-17" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;收益与成本&lt;br&gt;&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="883" width="180" height="107" as="geometry" />
         </mxCell>
-        <mxCell id="f7RIj0uco2Hz7s-HtjSD-1" value="难度（自我效能感）" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="1054" y="873" width="165" height="90" as="geometry" />
+        <mxCell id="f7RIj0uco2Hz7s-HtjSD-1" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;难度（自我效能感）&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1054" y="873" width="296" height="107" as="geometry" />
         </mxCell>
         <mxCell id="f7RIj0uco2Hz7s-HtjSD-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;endArrow=none;endFill=0;startArrow=classic;startFill=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="f7RIj0uco2Hz7s-HtjSD-2" target="f7RIj0uco2Hz7s-HtjSD-3">
           <mxGeometry relative="1" as="geometry" />
